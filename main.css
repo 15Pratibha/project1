@@ -4,6 +4,10 @@ body{
 .container {
         height: 500px;
       }
+iframe{
+ 
+      text-align:center;
+}
 
 header {
   background-color:#4267b2;
@@ -73,6 +77,9 @@ header {
   {
     background-color: orangeRed;
   }
+.badge{
+ background-color: orangeRed;
+      }
   #dropdownMenu1{
     background-color: #4267b2!important;
     color:white!important;
